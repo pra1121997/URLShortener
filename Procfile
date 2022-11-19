@@ -1,1 +1,1 @@
-web : gunicorn FoodPark.wsgi
+web gunicorn FoodPark.wsgi:application --log-file -
