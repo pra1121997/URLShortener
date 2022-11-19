@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-+&yyccen#$oqn#@rk)h96kr6@r6d_d+i=q5*fd#+ud#-kz$dn)
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'deploy-url-shortner.heroku.com'
+    'deploy-url-shortner.herokuapp.com'
 ]
 
 
